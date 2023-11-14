@@ -16,3 +16,9 @@ public class Student()
   {
     return "The name of this student is " + firstName + " " + lastName+ "with a grade of " + grade;
 }
+  
+<<<<<<< Updated upstream
+//  edits for dev branch: this comment
+=======
+//  comments to test dev branch
+>>>>>>> Stashed changes
